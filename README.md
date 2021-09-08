@@ -49,7 +49,7 @@ Food/drinks I would suggest
 
 **[Source](https://en.wikipedia.org/wiki/Floyd%E2%80%93Warshall_algorithm)**
 
-'''
+```
 
 for (int k = 0; k < n; ++k) {
     for (int i = 0; i < n; ++i) {
@@ -59,6 +59,6 @@ for (int k = 0; k < n; ++k) {
     }
 }
 
-'''
+```
 
 **[Source](https://cp-algorithms.com/graph/all-pair-shortest-path-floyd-warshall.html)**
