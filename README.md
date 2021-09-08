@@ -17,3 +17,18 @@ Mancherial is my favorite location. It is my home town and the reason for it bei
 * Camera
 * Sunscreen lotion
 * Camping tent
+
+**[Aboutme](AboutMe.md)
+
+---
+
+### Food recommend
+
+Food/drinks I would suggest 
+
+| Food | Available Location | Cost to Prepare |
+| --- | --- | --- |
+| Dum Biriyani | Hyderabad, India | 3 - 5$ |
+| Shawarma | Hyderabad, India | 1 - 2$ |
+| Lassi or Falooda | Hyderabad, India | 1 - 2$ |
+| Apricot Delight | Hyderabad, India | 1 - 2$ |
