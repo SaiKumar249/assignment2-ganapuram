@@ -40,3 +40,25 @@ Food/drinks I would suggest
 >Arise, awake, and stop not till the goal is reached - *Swami Vivekananda*
 >
 >Tomorrow never comes, it is always today. - *Osho*
+
+---
+
+### Floyd-Warshall Algorithm
+
+>In computer science, the Floyd–Warshall algorithm is an algorithm for finding shortest paths in a directed weighted graph with positive or negative edge weights. A single execution of the algorithm will find the lengths (summed weights) of shortest paths between all pairs of vertices.
+
+**[Source](https://en.wikipedia.org/wiki/Floyd%E2%80%93Warshall_algorithm)**
+
+'''
+
+for (int k = 0; k < n; ++k) {
+    for (int i = 0; i < n; ++i) {
+        for (int j = 0; j < n; ++j) {
+            d[i][j] = min(d[i][j], d[i][k] + d[k][j]); 
+        }
+    }
+}
+
+'''
+
+**[Source](https://cp-algorithms.com/graph/all-pair-shortest-path-floyd-warshall.html)**
