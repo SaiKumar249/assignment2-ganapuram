@@ -32,3 +32,10 @@ Food/drinks I would suggest
 | Shawarma | Hyderabad, India | 1 - 2$ |
 | Lassi or Falooda | Hyderabad, India | 1 - 2$ |
 | Apricot Delight | Hyderabad, India | 1 - 2$ |
+
+---
+
+### QUOTES
+
+>Arise, awake, and stop not till the goal is reached - *Swami Vivekananda*
+>Tomorrow never comes, it is always today. - *Osho*
